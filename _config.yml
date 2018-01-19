@@ -23,7 +23,7 @@ github_username:  R2robot
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
